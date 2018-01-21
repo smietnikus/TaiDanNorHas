@@ -1,0 +1,12 @@
+C:\Users\smiet\Documents\_projekty\TaiDanNorHas\MovieDB\MovieDB\bin\Debug\movieDB.mdf
+C:\Users\smiet\Documents\_projekty\TaiDanNorHas\MovieDB\MovieDB\bin\Debug\movieDB_log.ldf
+C:\Users\smiet\Documents\_projekty\TaiDanNorHas\MovieDB\MovieDB\bin\Debug\MovieDB.exe.config
+C:\Users\smiet\Documents\_projekty\TaiDanNorHas\MovieDB\MovieDB\bin\Debug\MovieDB.exe
+C:\Users\smiet\Documents\_projekty\TaiDanNorHas\MovieDB\MovieDB\bin\Debug\MovieDB.pdb
+C:\Users\smiet\Documents\_projekty\TaiDanNorHas\MovieDB\MovieDB\obj\Debug\MovieDB.csprojResolveAssemblyReference.cache
+C:\Users\smiet\Documents\_projekty\TaiDanNorHas\MovieDB\MovieDB\obj\Debug\MovieDB.frmMain.resources
+C:\Users\smiet\Documents\_projekty\TaiDanNorHas\MovieDB\MovieDB\obj\Debug\MovieDB.Properties.Resources.resources
+C:\Users\smiet\Documents\_projekty\TaiDanNorHas\MovieDB\MovieDB\obj\Debug\MovieDB.csproj.GenerateResource.Cache
+C:\Users\smiet\Documents\_projekty\TaiDanNorHas\MovieDB\MovieDB\obj\Debug\MovieDB.csproj.CoreCompileInputs.cache
+C:\Users\smiet\Documents\_projekty\TaiDanNorHas\MovieDB\MovieDB\obj\Debug\MovieDB.exe
+C:\Users\smiet\Documents\_projekty\TaiDanNorHas\MovieDB\MovieDB\obj\Debug\MovieDB.pdb
